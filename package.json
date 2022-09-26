@@ -17,7 +17,7 @@
     "koa-session": "^5.12.2",
     "koa-static": "^4.0.2",
     "koa2-request": "^1.0.4",
-    "log4js": "^2.5.3"
+    "log4js": "^6.6.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
